@@ -1,4 +1,4 @@
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -8,7 +8,7 @@
 <body>
 <div id = "top">
 
-<h2>Template Engine - Employee Summary</h2> <a href="#license"><img src= "https://img.shields.io/badge/License-MIT-blue.svg"></a><br>
+<h2>Team Profile Generator for Projects</h2> <a href="#license"><img src= "https://img.shields.io/badge/License-MIT-blue.svg"></a><br>
 
 <hr color= "slateblue" noshade>
 
@@ -46,8 +46,9 @@ HTML,Bootstrap,JavaScript,node.js</p><br>
 <hr color= "slateblue" noshade>
 
 <h3 id='use'>How to Use the Project</h3>
-<p>To use the project open the folder called TeamCarteraGenerador. In the terminal, run node app.js, then answer the given prompts starting with the number of people. Once the prompts are answered the information will write to the team.html file. Opening that file in the browser will display the team information, with a separate card for each member.
+<p>To use the project open the folder called TeamCarteraGenerador. In the terminal, run node app.js, then answer the given prompts starting with the number of people. Once the prompts are answered the information will write to the team.html file. Opening that file in the browser will display the team information, with a separate card for each member.</p>
 
+<p>
 Here is a link to a video describing how to use the application.
 
 https://www.loom.com/share/8312810da02f4354b0573870d9a4609c
