@@ -49,10 +49,7 @@ HTML,Bootstrap,JavaScript,node.js</p><br>
 <p>To use the project open the folder called TeamCarteraGenerador. In the terminal, run node app.js, then answer the given prompts starting with the number of people. Once the prompts are answered the information will write to the team.html file. Opening that file in the browser will display the team information, with a separate card for each member.</p><br>
 
 <p>
-Here is a link to a video describing how to use the application.
-
-https://www.loom.com/share/8312810da02f4354b0573870d9a4609c
-
+Here is a link to a video describing how to use the application: <a href = "https://www.loom.com/share/8312810da02f4354b0573870d9a4609c"rel= "nofollow">Sean's Demo Video</a> 
 </p><br>
 
 <a href="#top" id="start">(Back to Top of Page)</a><br>
