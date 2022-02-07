@@ -216,7 +216,7 @@ let teamSize;
         fs.writeFileSync(outputPath, render(employees), "utf-8")
         
         }
-          console.log("Success!");
+          console.log("Great Success!");
         }
 
 
