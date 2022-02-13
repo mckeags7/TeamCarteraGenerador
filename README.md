@@ -5,12 +5,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
-    <title>Good README Generator</title>
 </head>
 <body>
 <div id = "top">
 
-<h2>Template Engine - Employee Summary</h2> <a href="#license"><img src= "https://img.shields.io/badge/License-MIT-blue.svg"></a><br>
+<h2>Team Cartera Generador</h2> <a href="#license"><img src= "https://img.shields.io/badge/License-MIT-blue.svg"></a><br>
 
 <hr color= "slateblue" noshade>
 
