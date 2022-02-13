@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
+    <title>Good README Generator</title>
 </head>
 <body>
 <div id = "top">
@@ -27,13 +28,7 @@
 <hr color= "slateblue" noshade>
 
 <h3 id='description'>Description of Project</h3>
-<p>In this project the user is compiling a team for a project. The team consists of at least one Manager, one Engineer and one Intern, but can contain any number of Engineers and Interns as needed. Once the team is compiled, an html page is generated with a card containing pertinent team information for each member for easy access. All of my lib/js templates passed tesing. Features of this project include a nicely styled html page that displays the team information and render functions to pull the information in. 
- 
-
-
-The video demonstrating this project in use can be found via this link:
-
-<a href="https://www.loom.com/share/8312810da02f4354b0573870d9a4609c">Team Cartera Generador</a></p><br>
+<p>In this project the user is compiling a team for a project. The team consists of at least one Manager, one Engineer and one Intern, but can contain any number of Engineer and Interns as needed. Once the team is compiled, an html page is generated with a card containing pertinent team information for each member for easy access. All of my lib/js templates passed tesing. This project stands out because of the switch and case functions which allow specific questions to be asked about a team member based upon their role. Features of this project include a nicely styled html page that displays the team information and render functions to pull the information in.</p><br>
 <a href="#top" id="start">(Back to Top of Page)</a><br>
 <br>
 <hr color= "slateblue" noshade>
@@ -52,7 +47,7 @@ HTML,Bootstrap,JavaScript,node.js</p><br>
 <hr color= "slateblue" noshade>
 
 <h3 id='use'>How to Use the Project</h3>
-<p>To use the project open the template-engine-employee-summary folder. In terminal run node app.js, then answer the given prompts, starting with the number of team members needed. Once the prompts are answered the information will write to the team.html file. Opening that file in the browser will display the team information, with a separate card for each team member.</p><br>
+<p>To use the project open the TeamCarteraGenerador folder. In terminal run node app.js, then answer the given prompts, starting with the number of team members needed. Once the prompts are answered the information will write to the team.html file. Opening that file in the browser will display the team information, with a separate card for each team member.</p><br>
 <a href="#top" id="start">(Back to Top of Page)</a><br>
 <br>
 <hr color= "slateblue" noshade>
@@ -78,9 +73,6 @@ Please make sure to update tests as appropriate.</p><br>
 <hr color= "slateblue" noshade>
 
 <h3 id='screenshot'>Screenshots</h3>
-    ![mod 10](https://user-images.githubusercontent.com/93490277/153774719-0190138c-865f-4b38-b0d6-ecb27f57097c.png)
-
+    
 </body>
 </html> 
-
-
